@@ -1,0 +1,22 @@
+# **NYSE Financial Dashboard**
+
+## **Project Overview**
+This project is a financial dashboard created in Microsoft Excel to create an income statement and forecast financial metrics. The dashboard provides key financial insights such as calculating business metrics, statistical analysis, and forecast modeling for future growth prospects for companies.
+
+## **Key Features**
+•	Summary Statistics: Interpreted measures of central tendency and spread for the company ADM.
+•	P&L Dashboard: Dynamic dashboard which calculates the gross profit and operating profit (EBIT) for a company.
+•	Forecast Modeling: Dynamic dashboard that forecasts gross profit and operating profit (EBIT) for two more years. The forecast model includes finding results for a strong case, a base case, and a weak case.
+•	Analysis Report: Report analyzing and answering the question, “Does the increase or decrease of revenue in the utilities sector affect consumer staples revenue?”
+Tools and Technologies
+•	Microsoft Excel: For data analysis, visualization, and dynamic dashboard creation.
+•	Data Source: Kaggle
+•	Skills Demonstrated:
+o	Data Visualization
+o	Financial Analysis
+o	Dashboard Design
+Project Structure
+•	data: Contains cleaned datasets used in the dashboard.
+•	dashboard: The Excel file with the interactive financial dashboard.
+•	analysis report: PDF report including data visualization.
+•	Read Me: Documentation for the project (this file).
