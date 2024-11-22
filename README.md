@@ -1,23 +1,32 @@
-# **NYSE Financial Dashboard**
+# **Excel Projects Portfolio**
 
-## **Project Overview**
-This project is a financial dashboard created in Microsoft Excel to create an income statement and forecast financial metrics. The dashboard provides key financial insights such as calculating business metrics, statistical analysis, and forecast modeling for future growth prospects for companies.
+## **Overview**
+This repository is a collection of Excel-based projects showcasing my skills in data analysis, visualization, and financial modeling. Each project highlights a unique use case, demonstrating how Excel can be utilized to solve real-world problems and deliver actionable insights.
 
-## **Key Features**
-- **Summary Statistics**: Interpreted measures of central tendency and spread for the company ADM.
-- **P&L Dashboard**: Dynamic dashboard which calculates the gross profit and operating profit (EBIT) for a company.
-- **Forecast Modeling**: Dynamic dashboard which forecasts gross profit and operating profit (EBIT) for two more years. Forecast model includes finding results for strong case, base case, and a weak case.
-- **Analysis Report**
+| **Project** | **Description** | **Skills Demonstrated** |
+| ----------- | --------------- | ----------------------- |
+| NYSE Financial Dashboard | An interactive dashboard to generate income statements and forecast financial metrics | Data Visualization, Data Analysis, Dynamic Dashboard Creation |
 
-## **Tools and Technologies**
-- **Microsoft Excel**: For data analysis, visualization, and dashboard creation.
-- **Data Source**: [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse)
-- **Skills Demonstrated**:
-  * Data Visualization
-  * Financial Analysis
-  * Dashboard Design
+## **Features of This Repository**
+- **Comprehensive Excel Projects**: Each project is a standalone example of Excel's capabilities.
+- **Clear Documentation**: Each folder contains detailed instructions and files.
+- **Scalable and Flexible Solutions**: Designed for practical application and adaptability.
 
- ## **Project Structure**
- - **/data**: Contatins cleaned datasets used in the dashboard
- - **/dashboard**: The Excel file with the interactive financial dashboard
- - **/README.md**: Documentation for the project (this file).
+## **Getting Started**
+1. Clone this repository to your local machine: git clone https://github.com/tmwilken/Excel-Projects-Portfolio.git
+2. Navigate to the project folder you want to explore.
+3. Open the .xlsx files in Microsoft Excel to view the project.
+
+## **Future Projects**
+I am continuously expanding this portfolio with more Excel projects.
+
+Upcoming projects may include:
+- Sales Performance Analysis.
+- Budget Planning and Forecasting.
+- Automated reporting systems with VBA.
+
+## **Contact**
+Created by Tina Marie Wilken
+
+- [LinkedIn](https://www.linkedin.com/in/tinamariewilken/)
+- [Portfolio](https://github.com/tmwilken)
