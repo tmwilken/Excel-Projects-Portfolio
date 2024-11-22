@@ -7,6 +7,7 @@ This project is a financial dashboard created in Microsoft Excel to create an in
 - **Summary Statistics**: Interpreted measures of central tendency and spread for the company ADM.
 - **P&L Dashboard**: Dynamic dashboard which calculates the gross profit and operating profit (EBIT) for a company.
 - **Forecast Modeling**: Dynamic dashboard which forecasts gross profit and operating profit (EBIT) for two more years. Forecast model includes finding results for strong case, base case, and a weak case.
+- **Analysis Report**
 
 ## **Tools and Technologies**
 - **Microsoft Excel**: For data analysis, visualization, and dashboard creation.
@@ -18,5 +19,5 @@ This project is a financial dashboard created in Microsoft Excel to create an in
 
  ## **Project Structure**
  - **/data**: Contatins cleaned datasets used in the dashboard
- - **dashboard**: The Excel file with the interactive financial dashboard
- - **README.md**: Documentation for the project (this file).
+ - **/dashboard**: The Excel file with the interactive financial dashboard
+ - **/README.md**: Documentation for the project (this file).
