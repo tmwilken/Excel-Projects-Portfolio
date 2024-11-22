@@ -5,7 +5,7 @@ This repository is a collection of Excel-based projects showcasing my skills in 
 
 | **Project** | **Description** | **Skills Demonstrated** |
 | ----------- | --------------- | ----------------------- |
-| NYSE Financial Dashboard | An interactive dashboard to generate income statements and forecast financial metrics | Data Visualization, Data Analysis, Dynamic Dashboard Creation |
+| [NYSE Financial Dashboard](https://github.com/tmwilken/Excel-Projects-Portfolio) | An interactive dashboard to generate income statements and forecast financial metrics | Data Visualization, Data Analysis, Dynamic Dashboard Creation |
 
 ## **Features of This Repository**
 - **Comprehensive Excel Projects**: Each project is a standalone example of Excel's capabilities.
